@@ -70,22 +70,42 @@ border: 1px solid #C7C7C7;
 .genre-first {
 
 
-
+background-color: #E1F5EA;
+padding: 12px 16px;
+margin-bottom: 16px;
+border-radius: 4px;
 
 }
 
 .genre-second {
 
 
+background-color: #CBEDFF;
+padding: 12px 16px;
+margin-bottom: 16px;
+border-radius: 4px;
+width: 75%;
+
 }
 
 .genre-third {
+
+background-color: #EEE5BD;
+padding: 12px 16px;
+margin-bottom: 16px;
+border-radius: 4px;
+width: 50%;
 
 
 }
 
 .genre-fourth {
 
+background-color: #EBDCF9;
+padding: 12px 16px;
+margin-bottom: 16px;
+border-radius: 4px;
+width: 35%;
 }
 
 .tag {
