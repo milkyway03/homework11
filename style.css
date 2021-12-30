@@ -25,7 +25,11 @@ a {
 
 /* Колонки */
 
-
+.row {
+display: flex;
+margin-bottom: 24px;
+}
+.col {flex:auto;}
 
 
 /* Потом селекторы по классам */
