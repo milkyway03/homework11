@@ -12,7 +12,8 @@ font-family: Arial;
 }
 
 main {
-
+    width: 300px;
+    margin: 0px auto;
 }
 
 p {
@@ -65,7 +66,6 @@ padding: 8px 16px;
 margin-bottom: 16px;
 border-radius: 4px;
 border: 1px solid #C7C7C7;
-
 }
 
 
@@ -78,17 +78,16 @@ padding: 12px 16px;
 margin-bottom: 16px;
 border-radius: 4px;
 
+
 }
 
 .genre-second {
-
 
 background-color: #CBEDFF;
 padding: 12px 16px;
 margin-bottom: 16px;
 border-radius: 4px;
 width: 75%;
-
 }
 
 .genre-third {
@@ -98,7 +97,6 @@ padding: 12px 16px;
 margin-bottom: 16px;
 border-radius: 4px;
 width: 50%;
-
 
 }
 
@@ -113,7 +111,7 @@ width: 35%;
 
 .tag {
 
-
+color:#554AF8;
 
 }
 
@@ -121,6 +119,7 @@ width: 35%;
 
 .cover {
 
+width: 80%;
 
 }
 
@@ -128,10 +127,22 @@ width: 35%;
 
 .box-green {
 
+padding: 12px 16px;
+margin-bottom: 16px;
+border-radius: 4px;
+background-color: #E1F5EA;
+margin-bottom: 32px;
 
 }
 
 .box-purple {
+
+padding: 12px 16px;
+margin-bottom: 16px;
+margin-top: 36px;
+border-radius: 4px;
+background-color: #EBDCF9;
+margin-bottom: 32px;
 
 }
 
@@ -140,7 +151,6 @@ font-size: 32px;
 }
 
 .button-link {
-
 
 color:#fff;
 border-style: none;
